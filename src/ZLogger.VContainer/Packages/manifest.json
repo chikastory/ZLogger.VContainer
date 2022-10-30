@@ -1,0 +1,37 @@
+{
+  "scopedRegistries": [
+    {
+      "name": "OpenUPM",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.cysharp.zlogger",
+        "com.cysharp.zstring",
+        "jp.hadashikick.vcontainer",
+        "org.kumas.nuget-importer"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.chikastory.vcontainer.extensions": "https://github.com/chikastory/VContainer.Extensions.git?path=src/VContainer.Extensions/Packages/VContainer.Extensions",
+    "com.cysharp.zlogger": "1.7.0",
+    "com.cysharp.zstring": "2.5.0",
+    "com.unity.ide.rider": "3.0.16",
+    "com.unity.ide.visualstudio": "2.0.16",
+    "com.unity.textmeshpro": "3.0.6",
+    "jp.hadashikick.vcontainer": "1.11.1",
+    "nuget.castle-core": "1.0.1",
+    "nuget.moq": "1.0.0",
+    "org.kumas.nuget-importer": "3.1.0",
+    "com.unity.modules.ai": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.director": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.umbra": "1.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "com.chikastory.zlogger.vcontainer",
+  "displayName": "ZLogger.VContainer",
+  "author": { "name": "Chika Chang", "url": "https://chikastory.com" },
+  "version": "0.0.0-development",
+  "unity": "2021.3",
+  "description": "VContainer Integration for ZLogger.",
+  "license": "MIT",
+  "category": "Scripting",
+  "dependencies": {
+    "com.chikastory.vcontainer.extensions": "0.0.0-development",
+    "com.cysharp.zlogger": "1.7.0",
+    "com.cysharp.zstring": "2.5.0",
+    "jp.hadashikick.vcontainer": "1.11.1"
+  }
+}

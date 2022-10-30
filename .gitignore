@@ -1,0 +1,58 @@
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.UserSettings
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# JetBrains Rider
+.idea/
+*.DotSettings*
+
+# MonoDevelop
+*.userprefs
+
+# Visual Studio
+.vs/
+.vsconfig
+
+# Visual Studio Code
+.vscode/
+
+# Unity
+/src/ZLogger.VContainer/Library/
+/src/ZLogger.VContainer/Logs/
+/src/ZLogger.VContainer/Temp/
+/src/ZLogger.VContainer/UserSettings/
+
+/src/ZLogger.VContainer/*.csproj
+/src/ZLogger.VContainer/*.sln
+/src/ZLogger.VContainer/Packages/packages-lock.json
+
+# Unity Addressables
+/src/ZLogger.VContainer/Assets/AddressableAssetsData/*/*.bin*
+/src/ZLogger.VContainer/Assets/AddressableAssetsData/link.xml*
+
+# Unity CodeCoverage
+/src/ZLogger.VContainer/CodeCoverage/
+/src/ZLogger.VContainer/ProjectSettings/Packages/com.unity.testtools.codecoverage/
+
+# Unity Recordings
+/src/ZLogger.VContainer/Recordings/
+
+# Unity UI Toolkit
+/src/ZLogger.VContainer/UIElementsSchema/
+
+# Unity NuGet importer
+/src/ZLogger.VContainer/NuGet/
+/src/ZLogger.VContainer/Packages/*
+/src/ZLogger.VContainer/ProjectSettings/existingPackages.xml
+/src/ZLogger.VContainer/ProjectSettings/packageAsmNames.json
+/src/ZLogger.VContainer/ProjectSettings/rootPackages.xml
+
+!/src/ZLogger.VContainer/Packages/manifest.json
+!/src/ZLogger.VContainer/Packages/ZLogger.VContainer
